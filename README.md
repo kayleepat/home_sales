@@ -1,2 +1,6 @@
 # home_sales
-module 22
+
+## Tools Used
+- SQL
+- Spark
+- Google Colab
